@@ -10,7 +10,7 @@
                 },
                 "item3": {
                     "div": {"class": "ui-block-c help-block"},
-                    "a": {"href": "theme/help/contents.html"},
+                    "a": {"href": "help.html"},
                     "img": {
                         "src": "css/images/help.png",
                         "alt": "Help Section"
