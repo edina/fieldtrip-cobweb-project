@@ -18,11 +18,11 @@
             "git@github.com:cobweb-eu/Cordova-SQLitePlugin.git"
         ],
         "fieldtrip": {
-            "gps-tracking": "git@github.com:cobweb-eu/fieldtrip-gps-tracking.git",
-            "map-search": "git@github.com:cobweb-eu/fieldtrip-map-search",
-            "offline-maps": "git@github.com:cobweb-eu/fieldtrip-offline-maps",
-            "sync": "git@github.com:cobweb-eu/fieldtrip-sync.git",
-            "map-mbtiles": "git@github.com:cobweb-eu/fieldtrip-map-mbtiles"
+            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
+            "map-search": "https://github.com/edina/fieldtrip-map-search",
+            "offline-maps": "https://github.com/edina/fieldtrip-offline-maps",
+            "sync": "git@github.com:edina/fieldtrip-sync.git",
+            "map-mbtiles": "https://github.com/edina/fieldtrip-map-mbtiles"
         }
     }
 }
