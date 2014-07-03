@@ -25,7 +25,7 @@
                 },
                 "item2": {
                     "div": {
-                        "class": "ui-block-b sync-upload-button",
+                        "class": "ui-block-b sync-show sync-upload-button",
                         "style": "display: none;"
                     },
                     "a": {
@@ -40,7 +40,7 @@
                 },
                 "item3": {
                     "div": {
-                        "class": "ui-block-c sync-download-button",
+                        "class": "ui-block-c sync-show sync-download-button",
                         "style": "display: none;"
                     },
                     "a": {
@@ -52,6 +52,21 @@
                         "alt": "Download Editors"
                     },
                     "title": "Download Forms"
+                },
+                "item4": {
+                    "div": {
+                        "class": "ui-block-c sync-show sync-download-layers-button",
+                        "style": "display: none;"
+                    },
+                    "a": {
+                        "class": "annotate-text-form",
+                        "href": "saved-layers.html"
+                    },
+                    "img": {
+                        "src": "plugins/map-mbtiles/css/images/maplayers.png",
+                        "alt": "Download Layers"
+                    },
+                    "title": "Download Layers"
                 }
             }
         }

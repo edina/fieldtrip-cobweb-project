@@ -6,7 +6,7 @@
                     "div": {"class": "ui-block-a"},
                     "a": {"href": "#", "onclick": "window.open('https://docs.google.com/viewer?url=http://dlib-terzis.ucs.ed.ac.uk:8130/theme/help/rspb.pdf&embedded=true', '_blank', 'location=no');"},
                     "img": {
-                        "src": "css/images/help.png",
+                        "src": "css/images/pdf.png",
                         "alt": "Help"
                     },
                     "title": "RSPB Doc"
