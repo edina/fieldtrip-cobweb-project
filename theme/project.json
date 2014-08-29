@@ -22,7 +22,7 @@
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
             "map-search": "git@github.com/edina:fieldtrip-map-search",
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps",
-            "sync": "git@github.com:edina:fieldtrip-sync.git",
+            "sync": "git@github.com:edina/fieldtrip-sync",
             "map-mbtiles": "git@github.com:edina/fieldtrip-map-mbtiles"
         }
     }
