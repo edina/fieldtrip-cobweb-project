@@ -16,7 +16,7 @@
             "org.apache.cordova.media-capture@0.3.1",
             "org.apache.cordova.plugin.softkeyboard@1.0.3",
             "org.apache.cordova.device-orientation@0.3.8",
-            "https://github.com/cobweb-eu/Cordova-SQLitePlugin.git"
+            "https://github.com/edina/Cordova-SQLitePlugin.git"
         ],
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
