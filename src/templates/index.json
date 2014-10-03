@@ -29,6 +29,15 @@
                         "alt": "Capture GPS Track"
                     },
                     "title": "GPS Track"
+                },
+                "item5": {
+                    "div": {"class": "ui-block-e"},
+                    "a": {"class": "decision-tree", "href": "decision-tree.html"},
+                    "img": {
+                        "src": "plugins/decision-tree/css/images/biosos.png",
+                        "alt": "Capture BIOSOS"
+                    },
+                    "title": "BIOSOS"
                 }
             }
         },
