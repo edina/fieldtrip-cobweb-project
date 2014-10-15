@@ -69,6 +69,25 @@
                     "title": "Download Layers"
                 }
             }
+        },
+        "section3":{
+            "title": "Public content",
+            "items":{
+                "item3": {
+                    "div": {
+                        "class": "ui-block-c"
+                    },
+                    "a": {
+                        "class": "download-public-forms",
+                        "href": "#"
+                    },
+                    "img": {
+                        "src": "plugins/sync/css/images/download-editors.png",
+                        "alt": "Download Forms"
+                    },
+                    "title": "Download Forms"
+                }
+            }
         }
     }
 }

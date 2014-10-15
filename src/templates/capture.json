@@ -16,6 +16,11 @@
         "section2": {
             "title": "Custom Forms",
             "items": {}
+        },
+        "section3": {
+            "class": "public-forms",
+            "title": "Public Forms",
+            "items": {}
         }
     }
 }
