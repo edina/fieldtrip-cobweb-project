@@ -63,7 +63,7 @@
                         "href": "saved-layers.html"
                     },
                     "img": {
-                        "src": "plugins/map-mbtiles/css/images/maplayers.png",
+                        "src": "plugins/overlays/css/images/maplayers.png",
                         "alt": "Download Layers"
                     },
                     "title": "Download Layers"
