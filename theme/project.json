@@ -19,13 +19,13 @@
             "https://github.com/edina/Cordova-SQLitePlugin.git"
         ],
         "fieldtrip": {
-            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.5.0",
-            "map-search": "git@github.com:edina/fieldtrip-map-search.git#0.3.0",
-            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.2.1",
-            "sync": "git@github.com:edina/fieldtrip-sync.git#0.5.0",
-            "overlays": "git@github.com:edina/fieldtrip-overlays.git#0.1.0",
-            "extend-record": "git@github.com:edina/fieldtrip-cobweb.git#0.1.0",
-            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.1.0"
+            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
+            "map-search": "git@github.com:edina/fieldtrip-map-search.git",
+            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git",
+            "sync": "git@github.com:edina/fieldtrip-sync.git",
+            "overlays": "git@github.com:edina/fieldtrip-overlays.git",
+            "extend-record": "git@github.com:edina/fieldtrip-cobweb.git",
+            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git"
         }
     }
 }
