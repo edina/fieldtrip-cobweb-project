@@ -16,13 +16,13 @@
             "org.apache.cordova.media-capture@0.3.1",
             "org.apache.cordova.plugin.softkeyboard@1.0.3",
             "org.apache.cordova.device-orientation@0.3.8",
-            "https://github.com/edina/Cordova-SQLitePlugin.git"
+            "https://github.com/edina/Cordova-SQLitePlugin.git#8e0bcd0"
         ],
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
             "map-search": "git@github.com:edina/fieldtrip-map-search.git",
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git",
-            "sync": "git@github.com:edina/fieldtrip-sync.git",
+            "sync": "git@github.com:edina/fieldtrip-sync.git#0.2.2",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git",
             "extend-record": "git@github.com:edina/fieldtrip-cobweb.git",
             "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git"
