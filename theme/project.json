@@ -22,7 +22,7 @@
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
             "map-search": "git@github.com:edina/fieldtrip-map-search.git",
-            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.2.2",
+            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#cobweb",
             "sync": "git@github.com:edina/fieldtrip-sync.git",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git",
             "extend-record": "git@github.com:edina/fieldtrip-cobweb.git",

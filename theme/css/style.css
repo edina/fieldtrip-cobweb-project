@@ -2,9 +2,10 @@
 
 .non-map-body{
     position: relative;
-    background-image: linear-gradient(top, #304820, #699f41);
     background-repeat: no-repeat;
     background-position: right bottom;
+    background-color: #e3e1da;
+    background-image: url("images/background.png");
     color: #7C7B7B;
 }
 
