@@ -1,22 +1,8 @@
 {
     "body": {
         "section1": {
+            "title": "",
             "items": {
-                "item2": {
-                    "div": {"class": "ui-block-b"},
-                    "a": {"href": "saved-maps.html"},
-                    "img": {"src": "css/images/saved.png", "alt": "Save Map"},
-                    "title": "Saved"
-                },
-                "item3": {
-                    "div": {"class": "ui-block-c help-block"},
-                    "a": {"href": "help.html"},
-                    "img": {
-                        "src": "css/images/help.png",
-                        "alt": "Help Section"
-                    },
-                    "title": "Help"
-                }
             }
         },
         "section2": {
@@ -25,64 +11,9 @@
             }
         },
         "section3": {
-            "title": "Download and Sync",
+            "title": "",
             "items": {
-                "item1": {
-                    "div": {"class": "ui-block-a"},
-                    "a": {"href": "save-map.html"},
-                    "img": {
-                        "src": "theme/css/images/downloadmaps.png",
-                        "alt": "Save Maps"
-                    },
-                    "title": "Maps"
-                },
-                "item2": {
-                    "div": {"class": "ui-block-b"},
-                    "a": {"href": "saved-records.html"},
-                    "img": {
-                        "src": "css/images/documents.png",
-                        "alt": "Saved Records"
-                    },
-                    "title": "Records"
-                },
-                "item3": {
-                    "div": {
-                        "class": "ui-block-c sync-login",
-                        "id": "home-content-login"
-                    },
-                    "a": {"href": "#"},
-                    "img": {
-                        "src": "plugins/sync/css/images/login-large.png",
-                        "alt": "Login"
-                    },
-                    "title": "Login"
-                },
-                "item4": {
-                    "div": {
-                        "id": "home-content-upload",
-                        "class": "ui-block-d sync-show sync-upload-button",
-                        "style": "display:none;"
-                    },
-                    "a": {"href": "#"},
-                    "img": {
-                        "src": "plugins/sync/css/images/uploadrecords-main.png",
-                        "alt": "Upload Records"
-                    },
-                    "title": "Upload Records"
-                },
-                "item5": {
-                    "div": {
-                        "id": "home-content-sync",
-                        "class": "ui-block-e sync-show sync-button",
-                        "style": "display:none;"
-                    },
-                    "a": {"href": "#"},
-                    "img": {
-                        "src": "plugins/sync/css/images/sync-large.png",
-                        "alt": "Sync Records and Editors"
-                    },
-                    "title": "Sync"
-                }
+                
             }
         }
     }

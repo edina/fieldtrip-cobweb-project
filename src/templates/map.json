@@ -10,5 +10,9 @@
                 "data-iconpos": "notext"
             }
         }
+    },
+    "body": {
+        "list": "List Observations",
+        "show" : "Show Observations"
     }
 }
