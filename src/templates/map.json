@@ -13,6 +13,6 @@
     },
     "body": {
         "list": "List Observations",
-        "show" : "Show Observations"
+        "items" : "Observations"
     }
 }
