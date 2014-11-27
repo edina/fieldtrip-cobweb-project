@@ -94,3 +94,16 @@
 #saved-records-page-header h2{
     background: #699f41;
 }
+
+/****Hack for the bug with the menu****/
+/* Button down */
+#home-page .ui-page-theme-a .ui-btn:active,
+html .ui-bar-a .ui-btn:active,
+html .ui-body-a .ui-btn:active,
+html body .ui-group-theme-a .ui-btn:active,
+html head + body .ui-btn.ui-btn-a:active {
+    background-color: #639e42 /*{a-bup-background-color}*/;
+    border-color: #000000 /*{a-bup-border}*/;
+    color: #ffffff /*{a-bup-color}*/;
+    text-shadow: 0 /*{a-bup-shadow-x}*/ 0px /*{a-bup-shadow-y}*/ 0 /*{a-bup-shadow-radius}*/ #ffffff /*{a-bup-shadow-color}*/;
+}
