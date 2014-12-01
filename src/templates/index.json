@@ -18,6 +18,14 @@
         }
     },
     "popups": {
+        "popup1":{
+            "template": "index-exit-popup.html",
+            "data": {
+                "question": "Are you sure you want to exit COBWEB app?",
+                "cancel": "Cancel",
+                "exit": "Exit"
+            }
+        },
         "popup2":{
             "template": "index-eula-popup.html",
             "data": {
