@@ -16,5 +16,22 @@
                 
             }
         }
+    },
+    "popups": {
+        "popup2":{
+            "template": "index-eula-popup.html",
+            "data": {
+                "lincense": "http://fieldtripgb.blogs.edina.ac.uk/end-user-licence-agreement/",
+                "text": "Fieldtrip COBWEB is designed for purpose of field data capture. We DO NOT recommend COBWEB app for navigation or way finding due to possible inaccuracies and limited battery life.",
+                "logo1": "<img src=\"theme/css/images/eu.jpg\" alt=\"EU logo\">"
+            }
+        },
+        "popup3":{
+            "template": "index-splash-popup.html",
+            "data": {
+                "text": "Fieldtrip COBWEB is designed for purpose of field data capture. We DO NOT recommend Fieldtrip COBWEB for navigation or way finding due to possible inaccuracies and limited battery life.",
+                "logo1": "<img src=\"theme/css/images/eu.jpg\" alt=\"EU logo\">"
+            }
+        }
     }
 }
