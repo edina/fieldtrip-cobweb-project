@@ -101,7 +101,9 @@
 html .ui-bar-a .ui-btn:active,
 html .ui-body-a .ui-btn:active,
 html body .ui-group-theme-a .ui-btn:active,
-html head + body .ui-btn.ui-btn-a:active {
+html head + body .ui-btn.ui-btn-a:active,
+#dtree-prev:hover, #dtree-next:hover,
+#dtree-form .ui-radio > label:hover{
     background-color: #639e42 /*{a-bup-background-color}*/;
     border-color: #000000 /*{a-bup-border}*/;
     color: #ffffff /*{a-bup-color}*/;
