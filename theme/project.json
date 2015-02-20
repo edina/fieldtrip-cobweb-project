@@ -1,7 +1,7 @@
 {
     "versions":{
-        "core": "master",
-        "project": "0.0.2.2"
+        "core": "cobweb",
+        "project": "0.0.2.3"
     },
     "plugins":{
         "cordova": [
@@ -25,7 +25,7 @@
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#cobweb",
             "sync": "git@github.com:edina/fieldtrip-sync.git",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git",
-            "extend-record": "git@github.com:edina/fieldtrip-cobweb.git",
+            "extend-record": "git@github.com:edina/fieldtrip-extend-record.git",
             "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git"
         }
     }
