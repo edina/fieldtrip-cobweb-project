@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "cobweb",
-        "project": "0.0.2.3"
+        "project": "0.0.3.1"
     },
     "plugins":{
         "cordova": [
