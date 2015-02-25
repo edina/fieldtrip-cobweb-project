@@ -102,10 +102,16 @@ html .ui-bar-a .ui-btn:active,
 html .ui-body-a .ui-btn:active,
 html body .ui-group-theme-a .ui-btn:active,
 html head + body .ui-btn.ui-btn-a:active,
-#dtree-prev:hover, #dtree-next:hover,
-#dtree-form .ui-radio > label:hover{
+#dtree-prev:hover, #dtree-next:hover{
     background-color: #639e42 /*{a-bup-background-color}*/;
     border-color: #000000 /*{a-bup-border}*/;
     color: #ffffff /*{a-bup-color}*/;
     text-shadow: 0 /*{a-bup-shadow-x}*/ 0px /*{a-bup-shadow-y}*/ 0 /*{a-bup-shadow-radius}*/ #ffffff /*{a-bup-shadow-color}*/;
+}
+
+#dtree-form .ui-radio > label:hover{
+    background-color: #eeeeee /*{b-bup-background-color}*/;
+    border-color: #cccccc /*{b-bup-border}*/;
+    color: #2f3e46 /*{b-bup-color}*/;
+    text-shadow: 0 /*{b-bup-shadow-x}*/ 0px /*{b-bup-shadow-y}*/ 0 /*{b-bup-shadow-radius}*/ #ffffff /*{b-bup-shadow-color}*/;
 }
