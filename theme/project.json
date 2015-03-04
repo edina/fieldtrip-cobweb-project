@@ -17,6 +17,7 @@
             "org.apache.cordova.plugin.softkeyboard@1.0.3",
             "org.apache.cordova.device-orientation@0.3.8",
             "org.apache.cordova.network-information@0.2.13",
+            "org.apache.cordova.globalization@0.3.4",
             "https://github.com/edina/Cordova-SQLitePlugin.git#8e0bcd0"
         ],
         "fieldtrip": {
