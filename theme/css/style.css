@@ -115,3 +115,9 @@ html head + body .ui-btn.ui-btn-a:active,
     color: #2f3e46 /*{b-bup-color}*/;
     text-shadow: 0 /*{b-bup-shadow-x}*/ 0px /*{b-bup-shadow-y}*/ 0 /*{b-bup-shadow-radius}*/ #ffffff /*{b-bup-shadow-color}*/;
 }
+
+/* Override notification drawer color*/
+.notification-drawer > div{
+    color: white;
+    background-color: rgba(140, 198, 63, 0.95);
+}
