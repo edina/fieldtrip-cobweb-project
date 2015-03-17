@@ -1,11 +1,17 @@
 {
     "home": {
-        
+
     },
     "download": {
         "name": "Download / Upload",
         "href": "download.html",
         "class": "download-button fieldtrip-btn",
+        "data-icon": "custom"
+    },
+    "about": {
+        "name": "About",
+        "href": "about.html",
+        "class": "about-button fieldtrip-btn",
         "data-icon": "custom"
     }
 }
