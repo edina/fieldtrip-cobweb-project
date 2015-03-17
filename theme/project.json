@@ -1,7 +1,8 @@
 {
     "versions":{
         "core": "master",
-        "project": "0.0.3.2"
+        "project": "0.0.3.0",
+        "fieldtrip-open": "0.5.1"
     },
     "plugins":{
         "cordova": [
@@ -24,10 +25,10 @@
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
             "map-search": "git@github.com:edina/fieldtrip-map-search.git",
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#cobweb",
-            "sync": "git@github.com:edina/fieldtrip-sync.git",
+            "sync": "git@github.com:edina/fieldtrip-sync.git#0.6.2",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git",
-            "extend-record": "git@github.com:edina/fieldtrip-extend-record.git",
-            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git"
+            "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.1",
+            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.2.1"
         }
     }
 }
