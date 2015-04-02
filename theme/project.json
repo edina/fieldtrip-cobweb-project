@@ -28,7 +28,7 @@
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#cobweb",
             "sync": "git@github.com:edina/fieldtrip-sync.git#0.6.2",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git",
-            "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.1",
+            "extend-record": "git@github.com:edina/fieldtrip-extend-record.git",
             "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.2.1"
         }
     }
