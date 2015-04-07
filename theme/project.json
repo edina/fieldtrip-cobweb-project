@@ -20,7 +20,8 @@
             "org.apache.cordova.network-information@0.2.13",
             "org.apache.cordova.globalization@0.3.4",
             "https://github.com/edina/Cordova-SQLitePlugin.git#8e0bcd0",
-            "https://github.com/cobweb-eu/cobweb-los-plugin.git"
+            "https://github.com/cobweb-eu/cobweb-los-plugin.git",
+            "https://github.com/cobweb-eu/cobweb-camera-va-plugin.git"
         ],
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git",
@@ -29,7 +30,8 @@
             "sync": "git@github.com:edina/fieldtrip-sync.git#0.6.2",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git",
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git",
-            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.2.1"
+            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.2.1",
+            "camera-va": "git@github.com:edina/fieldtrip-camera-va.git"
         }
     }
 }
