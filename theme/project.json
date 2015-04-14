@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "master",
-        "project": "0.0.3.0",
+        "project": "0.0.4",
         "fieldtrip-open": "0.5.1"
     },
     "plugins":{
