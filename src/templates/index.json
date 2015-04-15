@@ -29,7 +29,7 @@
         "popup2":{
             "template": "index-eula-popup.html",
             "data": {
-                "license": "https://dyfi.cobwebproject.eu/geonetwork/catalog/views/cobweb/COBWEB-EULA.pdf",
+                "license": "https://docs.google.com/viewer?url=https://dyfi.cobwebproject.eu/geonetwork/catalog/views/cobweb/COBWEB-EULA.pdf&embedded=true",
                 "text": "Fieldtrip COBWEB is designed for purpose of field data capture. We DO NOT recommend COBWEB app for navigation or way finding due to possible inaccuracies and limited battery life.",
                 "logo1": "<img src=\"theme/css/images/eu.jpg\" alt=\"EU logo\">"
             }
