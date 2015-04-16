@@ -1,8 +1,8 @@
 {
     "versions":{
         "core": "master",
-        "project": "0.0.4",
-        "fieldtrip-open": "0.5.1"
+        "project": "0.0.5",
+        "fieldtrip-open": "0.5.2"
     },
     "plugins":{
         "cordova": [
