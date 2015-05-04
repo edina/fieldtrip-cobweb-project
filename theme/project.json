@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "0.5.2",
-        "project": "0.0.5",
+        "project": "0.0.6",
         "fieldtrip-open": "0.5.2"
     },
     "plugins":{
@@ -31,7 +31,7 @@
             "sync": "git@github.com:edina/fieldtrip-sync.git#cobweb",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git#0.2.0",
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.2",
-            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.2.1",
+            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.2.2",
             "camera-va": "git@github.com:edina/fieldtrip-camera-va.git#0.0.1"
         }
     }
