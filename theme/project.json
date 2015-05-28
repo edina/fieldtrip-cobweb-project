@@ -24,7 +24,7 @@
             "https://github.com/cobweb-eu/cobweb-camera-va-plugin.git#0.0.1"
         ],
         "fieldtrip": {
-            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.6.0",
+            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.7.0",
             "map-search": "git@github.com:edina/fieldtrip-map-search.git#0.5.0",
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.5.1",
             "sync": "git@github.com:edina/fieldtrip-sync.git#0.7.0",
