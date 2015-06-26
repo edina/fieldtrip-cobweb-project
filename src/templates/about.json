@@ -3,7 +3,7 @@
     "body": {
         "section1": {
             "title": {
-                "i18n": "section1.title",
+                "i18n": "section.help.title",
                 "en": "Help"
             },
             "items": {
@@ -11,16 +11,16 @@
                     "div": {"class": "ui-block-c help-block"},
                     "a": {"href": "settings.html"},
                     "img": {
-                        "src": "css/images/help.png",
-                        "alt": "Help Section"
+                        "src": "css/images/settings.png",
+                        "alt": "Settings"
                     },
-                    "title": "Help"
+                    "title": "Settings"
                 }
             }
         },
         "section2": {
             "title": {
-                "i18n": "section2.title",
+                "i18n": "section.development.title",
                 "en": "Development"
             },
             "items": {
