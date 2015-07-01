@@ -1,7 +1,7 @@
 {
     "versions":{
-        "core": "0dabed1",
-        "project": "0.0.8"
+        "core": "2e909a0",
+        "project": "0.0.9"
     },
     "plugins":{
         "cordova": [
