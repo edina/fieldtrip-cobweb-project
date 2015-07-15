@@ -1,6 +1,6 @@
 {
     "versions":{
-        "core": "ad53975",
+        "core": "master",
         "project": "0.1.0"
     },
     "plugins":{
@@ -22,7 +22,7 @@
             "https://github.com/cobweb-eu/cobweb-los-plugin.git#0.0.1",
             "https://github.com/edina/cordova-plugin-activitieslist#0.0.1",
             "https://github.com/cobweb-eu/cobweb-camera-va-plugin.git#0.0.1",
-            "https://github.com/cobweb-eu/cobweb-ble-plugin.git#0.0.1",
+            "https://github.com/cobweb-eu/cobweb-ble-plugin.git"
         ],
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.7.0",
@@ -33,7 +33,7 @@
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.2",
             "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.2.2",
             "camera-va": "git@github.com:edina/fieldtrip-camera-va.git#0.0.1",
-            "camera-va": "git@github.com:cobweb-eu/fieldtrip-ble.git"
+            "ble": "git@github.com:cobweb-eu/fieldtrip-ble.git"
         }
     }
 }
