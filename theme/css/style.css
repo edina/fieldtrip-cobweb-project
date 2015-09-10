@@ -98,6 +98,13 @@
     background: #699f41;
 }
 
+/*********** Position tracking plugin ***********/
+#position-tracking-title {
+    color: white;
+    background: #699f41;
+    font-weight: normal;
+}
+
 /****Hack for the bug with the menu****/
 /* Button down */
 #home-page .ui-page-theme-a .ui-btn:active,
