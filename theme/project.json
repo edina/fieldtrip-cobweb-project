@@ -1,7 +1,7 @@
 {
     "versions":{
-        "core": "b33f244",
-        "project": "0.1.6-dev"
+        "core": "master",
+        "project": "bluetooth"
     },
     "plugins":{
         "cordova": [
@@ -21,7 +21,8 @@
             "https://github.com/edina/Cordova-SQLitePlugin.git#8e0bcd0",
             "https://github.com/cobweb-eu/cobweb-los-plugin.git#0.0.1",
             "https://github.com/edina/cordova-plugin-activitieslist#0.0.1",
-            "https://github.com/cobweb-eu/cobweb-camera-va-plugin.git#0.0.1"
+            "https://github.com/cobweb-eu/cobweb-camera-va-plugin.git#0.0.1",
+            "https://github.com/cobweb-eu/cobweb-ble-plugin.git"
         ],
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.7.0",
@@ -32,7 +33,8 @@
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.3",
             "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.3.1",
             "camera-va": "git@github.com:edina/fieldtrip-camera-va.git#0.1.1",
-            "position-tracking": "git@github.com:edina/fieldtrip-position-tracking.git#0.2.1"
+            "position-tracking": "git@github.com:edina/fieldtrip-position-tracking.git#0.2.1",
+            "ble": "git@github.com:cobweb-eu/fieldtrip-ble.git"
         }
     }
 }
