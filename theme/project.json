@@ -18,13 +18,12 @@
             "org.apache.cordova.plugin.softkeyboard@1.0.3",
             "org.apache.cordova.network-information@0.2.15",
             "org.apache.cordova.globalization@0.3.4",
-            "cordova-plugin-zip@3.0.0",
+            "https://github.com/MobileChromeApps/cordova-plugin-zip#v2.1.1",
             "https://github.com/edina/Cordova-SQLitePlugin.git#8e0bcd0",
             "https://github.com/cobweb-eu/cobweb-los-plugin.git#0.0.1",
             "https://github.com/edina/cordova-plugin-activitieslist#0.0.1",
             "https://github.com/cobweb-eu/cobweb-camera-va-plugin.git#0.0.1",
-            "https://github.com/cobweb-eu/cobweb-ble-plugin.git#0.0.1",
-            ""
+            "https://github.com/cobweb-eu/cobweb-ble-plugin.git#0.0.1"
         ],
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.7.0",
