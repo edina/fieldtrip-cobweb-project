@@ -13,7 +13,10 @@
                         "src": "plugins/sync/css/images/login-large.png",
                         "alt": "Login"
                     },
-                    "title": "Login"
+                    "title": {
+                        "i18n": "project:login",
+                        "default": "Login"
+                    }
                 }
             }
         },
@@ -32,7 +35,10 @@
                         "src": "plugins/sync/css/images/download-editors.png",
                         "alt": "Download Forms"
                     },
-                    "title": "Public Surveys"
+                    "title": {
+                        "i18n": "project:public_surveys",
+                        "default": "Public Surveys"
+                    }
                 },
                 "item2": {
                     "div": {
@@ -47,7 +53,10 @@
                         "src": "plugins/sync/css/images/download-editors.png",
                         "alt": "Download Editors"
                     },
-                    "title": "Registered Surveys"
+                    "title": {
+                        "i18n": "project:registered_surveys",
+                        "default": "Registered Surveys"
+                    }
                 },
                 "item3": {
                     "div": {
@@ -61,7 +70,10 @@
                         "src": "plugins/overlays/css/images/maplayers.png",
                         "alt": "Download Layers"
                     },
-                    "title": "Download Layers"
+                    "title": {
+                        "i18n": "project:download_layers",
+                        "default": "Download Layers"
+                    }
                 }
             }
         },
@@ -75,7 +87,10 @@
                         "src": "theme/css/images/documents.png",
                         "alt": "View Records"
                     },
-                    "title": "Observations"
+                    "title": {
+                        "i18n": "common:records",
+                        "default": "Observations"
+                    }
                 }
             }
         }
