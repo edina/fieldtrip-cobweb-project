@@ -1,7 +1,10 @@
 {
     "body": {
         "buttons-toggle": {},
-        "view-records": "Observations",
+        "view-records": {
+            "en": "Observations",
+            "i18n": "saved-records:view_records"
+        },
         "buttons-normal": {
             "upload": {
                 "id": "saved-records-page-header-upload",

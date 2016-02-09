@@ -12,7 +12,13 @@
         }
     },
     "body": {
-        "list": "List Observations",
-        "items" : "Observations"
+        "list": {
+            "i18n": "map:list_records",
+            "en": "List Observations"
+        },
+        "records": {
+            "i18n": "map:records",
+            "en": "Observations"
+        }
     }
 }
