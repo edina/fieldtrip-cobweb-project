@@ -4,7 +4,8 @@
             "item1": {
                 "div": {"class": "ui-block-a", "style": "width:50%"},
                 "a": {"data-role": "button", "href": "saved-maps.html" },
-                "title": "List downloaded maps"
+                "title": "List downloaded maps",
+                "i18n": "offline-maps:list_downloaded_maps"
             }
         }
     }
