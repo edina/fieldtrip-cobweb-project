@@ -3,7 +3,7 @@
     "body": {
         "section1": {
             "title": {
-                "i18n": "section.help.title",
+                "i18n": "project:section_help",
                 "en": "Help"
             },
             "items": {
@@ -14,13 +14,14 @@
                         "src": "css/images/settings.png",
                         "alt": "Settings"
                     },
+                    "i18n": "index:settings",
                     "title": "Settings"
                 }
             }
         },
         "section2": {
             "title": {
-                "i18n": "section.development.title",
+                "i18n": "index:section_development",
                 "en": "Development"
             },
             "items": {
@@ -33,6 +34,7 @@
                         "src": "css/images/settings.png",
                         "alt": "Settings"
                     },
+                    "i18n": "index:settings",
                     "title": "Settings"
                 },
                 "item2": {
@@ -48,6 +50,7 @@
                         "src": "css/images/settings.png",
                         "alt": "Tests"
                     },
+                    "i18n": "index:unit_tests",
                     "title": "Unit Tests"
                 },
                 "item3": {
@@ -62,6 +65,7 @@
                         "src": "css/images/settings.png",
                         "alt": "System Tests"
                     },
+                    "i18n": "index:system_tests",
                     "title": "System Tests"
                 },
                 "item4": {
@@ -76,6 +80,7 @@
                         "src": "css/images/settings.png",
                         "alt": "Misc Test"
                     },
+                    "i18n": "index:create_records",
                     "title": "Create Records"
                 }
             }
