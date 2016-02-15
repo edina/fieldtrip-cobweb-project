@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "cobweb",
-        "project": "0.1.8"
+        "project": "0.1.9"
     },
     "plugins":{
         "cordova": [
@@ -33,7 +33,7 @@
             "sync": "git@github.com:edina/fieldtrip-sync.git#cobweb",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git#0.3.3",
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git",
-            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.3.6",
+            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.3.7",
             "camera-va": "git@github.com:edina/fieldtrip-camera-va.git#0.1.1",
             "position-tracking": "git@github.com:edina/fieldtrip-position-tracking.git#0.2.1",
             "ble": "git@github.com:cobweb-eu/fieldtrip-ble.git"
