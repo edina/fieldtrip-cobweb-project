@@ -33,7 +33,7 @@
             "sync": "git@github.com:edina/fieldtrip-sync.git#cobweb",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git",
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git",
-            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.3.8",
+            "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git",
             "camera-va": "git@github.com:edina/fieldtrip-camera-va.git#0.1.1",
             "position-tracking": "git@github.com:edina/fieldtrip-position-tracking.git#0.2.1",
             "ble": "git@github.com:cobweb-eu/fieldtrip-ble.git"
