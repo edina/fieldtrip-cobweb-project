@@ -30,7 +30,7 @@
         "fieldtrip": {
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.7.0",
             "map-search": "git@github.com:edina/fieldtrip-map-search.git#0.5.0",
-            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.5.2",
+            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git",
             "sync": "git@github.com:edina/fieldtrip-sync.git#0.9.1",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git#0.3.4",
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.5",
