@@ -28,10 +28,9 @@
             "https://github.com/cobweb-eu/cordova-cobweb-qa.git"
         ],
         "fieldtrip": {
-            "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.7.0",
             "map-search": "git@github.com:edina/fieldtrip-map-search.git#0.5.0",
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git",
-            "sync": "git@github.com:edina/fieldtrip-sync.git#cobweb",
+            "sync": "git@github.com:edina/fieldtrip-sync.git",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git#0.3.4",
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.5",
             "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.3.10",
