@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "cobweb",
-        "project": "0.2.3"
+        "project": "0.2.4"
     },
     "plugins":{
         "cordova": [
@@ -25,12 +25,12 @@
             "https://github.com/edina/cordova-plugin-activitieslist#0.0.1",
             "https://github.com/cobweb-eu/cobweb-camera-va-plugin.git#0.0.1",
             "https://github.com/cobweb-eu/cobweb-ble-plugin.git#0.0.1",
-            "https://github.com/cobweb-eu/cordova-cobweb-qa.git"
+            "https://github.com/cobweb-eu/cordova-cobweb-qa.git#0.0.4"
         ],
         "fieldtrip": {
-            "map-search": "git@github.com:edina/fieldtrip-map-search.git#0.5.0",
-            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git",
-            "sync": "git@github.com:edina/fieldtrip-sync.git",
+            "map-search": "git@github.com:edina/fieldtrip-map-search.git#0.5.1",
+            "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.5.4",
+            "sync": "git@github.com:edina/fieldtrip-sync.git#0.9.3",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git#0.3.4",
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.5",
             "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.3.10",
